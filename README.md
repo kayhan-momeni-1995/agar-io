@@ -1,4 +1,4 @@
-# agar-io
+# agar.io
 
 This mini-game that I developed for my advanced programming course project is my trial of implementing a game similar to [https://agar.io/](https://agar.io/).
 
