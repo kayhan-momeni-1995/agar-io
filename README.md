@@ -4,7 +4,7 @@ This mini-game that I developed for my advanced programming course project is my
 
 
 Upun running this repository, one user must run the game as the ”server,” and others could join the server as clients.
-![main window](https://github.com/kayhan-momeni-1995/agar-io/blob/main/Sample%20pics/main%20window.png?raw=true)
+<img src="https://github.com/kayhan-momeni-1995/agar-io/blob/main/Sample%20pics/main%20window.png?raw=true" alt="drawing" style="width:200px;"/>
 
 
 
