@@ -3,7 +3,7 @@
 This mini-game that I developed for my advanced programming course project is my trial of implementing a game similar to [https://agar.io/](https://agar.io/).
 
 
-Upun running this repository, one user must run the game as the ”server,” and others could join the server as clients.
+Upon running this repository, one user must run the game as the ”server,” and others could join the server as clients.
 <img src="https://github.com/kayhan-momeni-1995/agar-io/blob/main/Sample%20pics/main%20window.png?raw=true" alt="drawing" style="width:200px;"/>
 
 
